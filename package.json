@@ -10,8 +10,9 @@
     "up": "scripts/up",
     "down": "scripts/down",
     "lint": "scripts/lint",
+    "production-test": "scripts/production-test",
     "production-lint": "scripts/production-lint",
-    "start": "node index.js"
+    "start": "scripts/production-start"
   },
   "author": "",
   "license": "MIT",

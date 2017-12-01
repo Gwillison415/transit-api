@@ -1,4 +1,7 @@
 node_modules
 .env
 codeship.aes
+<<<<<<< HEAD
 aws-deployment.env
+=======
+>>>>>>> b982dbcf444174aa25a8887dbda84e1c6ccec809

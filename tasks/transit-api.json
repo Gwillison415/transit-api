@@ -1,4 +1,8 @@
 {
+<<<<<<< HEAD
+=======
+  "taskRoleArn": "arn:aws:iam::116138389191:role/transit-api-role",
+>>>>>>> b982dbcf444174aa25a8887dbda84e1c6ccec809
   "containerDefinitions": [
     {
       "memory": 512,

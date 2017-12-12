@@ -10,7 +10,6 @@
     "up": "scripts/up",
     "down": "scripts/down",
     "lint": "scripts/lint",
-    "production-test": "scripts/production-test",
     "production-lint": "scripts/production-lint",
     "start": "scripts/production-start"
   },
